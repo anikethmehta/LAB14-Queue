@@ -46,4 +46,20 @@ You just take a quick look at the front without changing anything.
 
 Code:
 
+https://github.com/anikethmehta/LAB14-Queue/blob/main/code1.png
+
+https://github.com/anikethmehta/LAB14-Queue/blob/main/code2.png
+
+https://github.com/anikethmehta/LAB14-Queue/blob/main/code3.png
+
+https://github.com/anikethmehta/LAB14-Queue/blob/main/code4.png
+
+https://github.com/anikethmehta/LAB14-Queue/blob/main/code5.png
+
+https://github.com/anikethmehta/LAB14-Queue/blob/main/code6.png
+
 Output:
+
+https://github.com/anikethmehta/LAB14-Queue/blob/main/output1.png
+
+https://github.com/anikethmehta/LAB14-Queue/blob/main/output2.png
